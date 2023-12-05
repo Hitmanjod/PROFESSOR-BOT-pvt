@@ -1,4 +1,4 @@
-vimport re, time
+import re, time
 from os import environ
 from Script import script 
 
